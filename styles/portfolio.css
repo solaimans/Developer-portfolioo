@@ -40,7 +40,7 @@ nav li{
 }
 
 .header{
-    background: whitesmoke; 
+    background: white; 
     background-image: url('../images/developer.png'), url();
     background-repeat: no-repeat;
     background-position: left;
