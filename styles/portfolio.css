@@ -13,7 +13,7 @@ nav{
     padding: 50px 200px;
 }
 .nav-title{
-    font-weight: 800;;
+    font-weight: 800;
      font-size: 45px;
 } 
 nav ul{
@@ -40,7 +40,7 @@ nav li{
 }
 
 .header{
-    /* background: hwb(0 99% 1%); */
+    background: whitesmoke; 
     background-image: url('../images/developer.png'), url();
     background-repeat: no-repeat;
     background-position: left;
